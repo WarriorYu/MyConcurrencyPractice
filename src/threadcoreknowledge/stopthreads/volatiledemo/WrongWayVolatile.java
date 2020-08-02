@@ -1,4 +1,4 @@
-package threadcoreknowledge.stopthreads;
+package threadcoreknowledge.stopthreads.volatiledemo;
 
 /**
  * Author   : soldieryu.dev@gmail.com
